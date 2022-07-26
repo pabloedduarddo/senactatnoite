@@ -13,8 +13,8 @@
 # Configuração do Banco de Dados de DNS Estático IPv4 do Servidor Local
 # IPv4		    FQDN                            CNAME	
 127.0.0.1 	    localhost.localdomain	        localhost
-127.0.1.1 	    wsvaamonde.vaamonde.intra	    wsvaamonde
-172.16.100.20	wsvaamonde.vaamonde.intra	    wsvaamonde
+127.0.1.1 	    wspablo.pablo.intra	            wspablo
+172.16.25.20	wspablo.pablo.intra	            wspablo
 #
 # Configuração do Banco de Dados de DNS Estático IPv6 do Servidor Local
 # OBSERVAÇÃO: por padrão nesse curso não será utilizando o suporte ao IPv6

@@ -56,17 +56,17 @@ USUARIODEFAULT="senac"
 SENHADEFAULT="123@senac"
 #
 # Variável do Nome (Hostname) do Servidor Ubuntu desse curso
-NOMESERVER="wsvaamonde"
+NOMESERVER="wspablo"
 #
 # Variável do Nome de Domínio do Servidor Ubuntu desse curso
 # OBSERVAÇÃO IMPORTANTE: essa variável será utilizada em outras variáveis desse curso
-DOMINIOSERVER="vaamonde.intra"
+DOMINIOSERVER="pablo.intra"
 #
 # Variável do Nome (Hostname) FQDN (Fully Qualified Domain Name) do Servidor Ubuntu desse curso
 FQDNSERVER="$NOMESERVER.$DOMINIOSERVER"
 #
 # Variável do Endereço IPv4 principal (padrão) do Servidor Ubuntu desse curso
-IPV4SERVER="172.16.100.20"
+IPV4SERVER="172.16.25.20"
 #
 # Variável do Nome da Interface Lógica do Servidor Ubuntu Server desse curso
 INTERFACE="enp0s3"
@@ -173,7 +173,7 @@ WEBSERVER="apache2"
 #
 # Variável das dependências do laço de loop do LAMP Server
 LAMPDEP=""
-#
+#vaamonde
 # Variável de instalação do serviço de rede LAMP Server 
 # opção do caractere: ^ (circunflexo): expressão regular referente ao Tasksel, o uso do caractere ^ 
 # significa que o que precede é um Metapacote. Ao instalar meta pacotes, vários outros pacotes também 
